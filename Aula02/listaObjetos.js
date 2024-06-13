@@ -21,7 +21,7 @@ cliente.endereços.push({
     numero: 999,
     apartamento: false,
     casa: true,
-    complemento: "perto do Japão"
+    complemento: "venezuela"
 })
 
 console.log(cliente.endereços);
